@@ -1,0 +1,865 @@
+{
+  "floors": [
+    {
+      "floor": 1,
+      "rooms": [
+        {
+          "room_number": "101",
+          "students": [
+            {
+              "student_id": "2117100001001",
+              "name": "Arjun Sharma",
+              "room_number": "101",
+              "id_card_qr": "2117100001001"
+            },
+            {
+              "student_id": "2117100001002",
+              "name": "Priya Singh",
+              "room_number": "101",
+              "id_card_qr": "2117100001002"
+            }
+          ]
+        },
+        {
+          "room_number": "102",
+          "students": [
+            {
+              "student_id": "2117100002001",
+              "name": "Rahul Kumar",
+              "room_number": "102",
+              "id_card_qr": "2117100002001"
+            },
+            {
+              "student_id": "2117100002002",
+              "name": "Sneha Gupta",
+              "room_number": "102",
+              "id_card_qr": "2117100002002"
+            }
+          ]
+        },
+        {
+          "room_number": "103",
+          "students": [
+            {
+              "student_id": "2117100003001",
+              "name": "Vikram Patel",
+              "room_number": "103",
+              "id_card_qr": "2117100003001"
+            }
+          ]
+        },
+        {
+          "room_number": "104",
+          "students": [
+            {
+              "student_id": "2117100004001",
+              "name": "Kavya Reddy",
+              "room_number": "104",
+              "id_card_qr": "2117100004001"
+            },
+            {
+              "student_id": "2117100004002",
+              "name": "Anil Verma",
+              "room_number": "104",
+              "id_card_qr": "2117100004002"
+            }
+          ]
+        },
+        {
+          "room_number": "105",
+          "students": [
+            {
+              "student_id": "2117100005001",
+              "name": "Deepika Jain",
+              "room_number": "105",
+              "id_card_qr": "2117100005001"
+            }
+          ]
+        },
+        {
+          "room_number": "106",
+          "students": [
+            {
+              "student_id": "2117100006001",
+              "name": "Rohit Agarwal",
+              "room_number": "106",
+              "id_card_qr": "2117100006001"
+            },
+            {
+              "student_id": "2117100006002",
+              "name": "Meera Choudhary",
+              "room_number": "106",
+              "id_card_qr": "2117100006002"
+            }
+          ]
+        },
+        {
+          "room_number": "107",
+          "students": [
+            {
+              "student_id": "2117240020147",
+              "name": "hidhayat",
+              "room_number": "107",
+              "id_card_qr": "2117240020147"
+            }
+          ]
+        },
+        {
+          "room_number": "108",
+          "students": [
+            {
+              "student_id": "2117240020395",
+              "name": "udhayan",
+              "room_number": "108",
+              "id_card_qr": "2117240020395"
+            },
+            {
+              "student_id": "2117240020152",
+              "name": "jaslin dejo",
+              "room_number": "108",
+              "id_card_qr": "2117240020152"
+            }
+          ]
+        },
+        {
+          "room_number": "109",
+          "students": [
+            {
+              "student_id": "21171109001",
+              "name": "Anjali Desai",
+              "room_number": "109",
+              "id_card_qr": "21171109001"
+            }
+          ]
+        },
+        {
+          "room_number": "110",
+          "students": [
+            {
+              "student_id": "21171110001",
+              "name": "Suresh Yadav",
+              "room_number": "110",
+              "id_card_qr": "21171110001"
+            },
+            {
+              "student_id": "21171110002",
+              "name": "Ritu Sharma",
+              "room_number": "110",
+              "id_card_qr": "21171110002"
+            }
+          ]
+        },
+        {
+          "room_number": "111",
+          "students": [
+            {
+              "student_id": "21171111001",
+              "name": "Manish Singh",
+              "room_number": "111",
+              "id_card_qr": "21171111001"
+            }
+          ]
+        },
+        {
+          "room_number": "112",
+          "students": [
+            {
+              "student_id": "21171112001",
+              "name": "Nisha Gupta",
+              "room_number": "112",
+              "id_card_qr": "21171112001"
+            },
+            {
+              "student_id": "21171112002",
+              "name": "Ajay Kumar",
+              "room_number": "112",
+              "id_card_qr": "21171112002"
+            }
+          ]
+        },
+        {
+          "room_number": "113",
+          "students": [
+            {
+              "student_id": "21171113001",
+              "name": "Shweta Patel",
+              "room_number": "113",
+              "id_card_qr": "21171113001"
+            }
+          ]
+        },
+        {
+          "room_number": "114",
+          "students": [
+            {
+              "student_id": "21171114001",
+              "name": "Gaurav Reddy",
+              "room_number": "114",
+              "id_card_qr": "21171114001"
+            },
+            {
+              "student_id": "21171114002",
+              "name": "Sunita Verma",
+              "room_number": "114",
+              "id_card_qr": "21171114002"
+            }
+          ]
+        },
+        {
+          "room_number": "115",
+          "students": [
+            {
+              "student_id": "21171115001",
+              "name": "Dinesh Jain",
+              "room_number": "115",
+              "id_card_qr": "21171115001"
+            }
+          ]
+        },
+        {
+          "room_number": "116",
+          "students": [
+            {
+              "student_id": "21171116001",
+              "name": "Preeti Agarwal",
+              "room_number": "116",
+              "id_card_qr": "21171116001"
+            },
+            {
+              "student_id": "21171116002",
+              "name": "Rajesh Choudhary",
+              "room_number": "116",
+              "id_card_qr": "21171116002"
+            }
+          ]
+        },
+        {
+          "room_number": "117",
+          "students": [
+            {
+              "student_id": "21171117001",
+              "name": "Swati Mishra",
+              "room_number": "117",
+              "id_card_qr": "21171117001"
+            }
+          ]
+        },
+        {
+          "room_number": "118",
+          "students": [
+            {
+              "student_id": "21171118001",
+              "name": "Vivek Bansal",
+              "room_number": "118",
+              "id_card_qr": "21171118001"
+            },
+            {
+              "student_id": "21171118002",
+              "name": "Neha Thakur",
+              "room_number": "118",
+              "id_card_qr": "21171118002"
+            }
+          ]
+        },
+        {
+          "room_number": "119",
+          "students": [
+            {
+              "student_id": "21171119001",
+              "name": "Sachin Desai",
+              "room_number": "119",
+              "id_card_qr": "21171119001"
+            }
+          ]
+        },
+        {
+          "room_number": "120",
+          "students": [
+            {
+              "student_id": "21171120001",
+              "name": "Kavita Yadav",
+              "room_number": "120",
+              "id_card_qr": "21171120001"
+            },
+            {
+              "student_id": "21171120002",
+              "name": "Mohit Sharma",
+              "room_number": "120",
+              "id_card_qr": "21171120002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 2,
+      "rooms": [
+        {
+          "room_number": "201",
+          "students": [
+            {
+              "student_id": "21172201001",
+              "name": "Ritika Singh",
+              "room_number": "201",
+              "id_card_qr": "21172201001"
+            },
+            {
+              "student_id": "21172201002",
+              "name": "Harsh Gupta",
+              "room_number": "201",
+              "id_card_qr": "21172201002"
+            }
+          ]
+        },
+        {
+          "room_number": "202",
+          "students": [
+            {
+              "student_id": "21172202001",
+              "name": "Anita Kumar",
+              "room_number": "202",
+              "id_card_qr": "21172202001"
+            }
+          ]
+        },
+        {
+          "room_number": "203",
+          "students": [
+            {
+              "student_id": "21172203001",
+              "name": "Ravi Patel",
+              "room_number": "203",
+              "id_card_qr": "21172203001"
+            },
+            {
+              "student_id": "21172203002",
+              "name": "Simran Reddy",
+              "room_number": "203",
+              "id_card_qr": "21172203002"
+            }
+          ]
+        },
+        {
+          "room_number": "204",
+          "students": [
+            {
+              "student_id": "21172204001",
+              "name": "Amit Verma",
+              "room_number": "204",
+              "id_card_qr": "21172204001"
+            }
+          ]
+        },
+        {
+          "room_number": "205",
+          "students": [
+            {
+              "student_id": "21172205001",
+              "name": "Priyanka Jain",
+              "room_number": "205",
+              "id_card_qr": "21172205001"
+            },
+            {
+              "student_id": "21172205002",
+              "name": "Sunil Agarwal",
+              "room_number": "205",
+              "id_card_qr": "21172205002"
+            }
+          ]
+        },
+        {
+          "room_number": "206",
+          "students": [
+            {
+              "student_id": "21172206001",
+              "name": "Deepak Choudhary",
+              "room_number": "206",
+              "id_card_qr": "21172206001"
+            }
+          ]
+        },
+        {
+          "room_number": "207",
+          "students": [
+            {
+              "student_id": "21172207001",
+              "name": "Rekha Mishra",
+              "room_number": "207",
+              "id_card_qr": "21172207001"
+            },
+            {
+              "student_id": "21172207002",
+              "name": "Naveen Bansal",
+              "room_number": "207",
+              "id_card_qr": "21172207002"
+            }
+          ]
+        },
+        {
+          "room_number": "208",
+          "students": [
+            {
+              "student_id": "21172208001",
+              "name": "Geeta Thakur",
+              "room_number": "208",
+              "id_card_qr": "21172208001"
+            }
+          ]
+        },
+        {
+          "room_number": "209",
+          "students": [
+            {
+              "student_id": "21172209001",
+              "name": "Yogesh Desai",
+              "room_number": "209",
+              "id_card_qr": "21172209001"
+            },
+            {
+              "student_id": "21172209002",
+              "name": "Sangeeta Yadav",
+              "room_number": "209",
+              "id_card_qr": "21172209002"
+            }
+          ]
+        },
+        {
+          "room_number": "210",
+          "students": [
+            {
+              "student_id": "21172210001",
+              "name": "Nitin Sharma",
+              "room_number": "210",
+              "id_card_qr": "21172210001"
+            }
+          ]
+        },
+        {
+          "room_number": "211",
+          "students": [
+            {
+              "student_id": "21172211001",
+              "name": "Madhuri Singh",
+              "room_number": "211",
+              "id_card_qr": "21172211001"
+            },
+            {
+              "student_id": "21172211002",
+              "name": "Varun Gupta",
+              "room_number": "211",
+              "id_card_qr": "21172211002"
+            }
+          ]
+        },
+        {
+          "room_number": "212",
+          "students": [
+            {
+              "student_id": "21172212001",
+              "name": "Usha Kumar",
+              "room_number": "212",
+              "id_card_qr": "21172212001"
+            }
+          ]
+        },
+        {
+          "room_number": "213",
+          "students": [
+            {
+              "student_id": "21172213001",
+              "name": "Tarun Patel",
+              "room_number": "213",
+              "id_card_qr": "21172213001"
+            },
+            {
+              "student_id": "21172213002",
+              "name": "Shilpa Reddy",
+              "room_number": "213",
+              "id_card_qr": "21172213002"
+            }
+          ]
+        },
+        {
+          "room_number": "214",
+          "students": [
+            {
+              "student_id": "21172214001",
+              "name": "Bharat Verma",
+              "room_number": "214",
+              "id_card_qr": "21172214001"
+            }
+          ]
+        },
+        {
+          "room_number": "215",
+          "students": [
+            {
+              "student_id": "21172215001",
+              "name": "Lakshmi Jain",
+              "room_number": "215",
+              "id_card_qr": "21172215001"
+            },
+            {
+              "student_id": "21172215002",
+              "name": "Vinay Agarwal",
+              "room_number": "215",
+              "id_card_qr": "21172215002"
+            }
+          ]
+        },
+        {
+          "room_number": "216",
+          "students": [
+            {
+              "student_id": "21172216001",
+              "name": "Renu Choudhary",
+              "room_number": "216",
+              "id_card_qr": "21172216001"
+            }
+          ]
+        },
+        {
+          "room_number": "217",
+          "students": [
+            {
+              "student_id": "21172217001",
+              "name": "Hemant Mishra",
+              "room_number": "217",
+              "id_card_qr": "21172217001"
+            },
+            {
+              "student_id": "21172217002",
+              "name": "Sonia Bansal",
+              "room_number": "217",
+              "id_card_qr": "21172217002"
+            }
+          ]
+        },
+        {
+          "room_number": "218",
+          "students": [
+            {
+              "student_id": "21172218001",
+              "name": "Akash Thakur",
+              "room_number": "218",
+              "id_card_qr": "21172218001"
+            }
+          ]
+        },
+        {
+          "room_number": "219",
+          "students": [
+            {
+              "student_id": "21172219001",
+              "name": "Radha Desai",
+              "room_number": "219",
+              "id_card_qr": "21172219001"
+            },
+            {
+              "student_id": "21172219002",
+              "name": "Manoj Yadav",
+              "room_number": "219",
+              "id_card_qr": "21172219002"
+            }
+          ]
+        },
+        {
+          "room_number": "220",
+          "students": [
+            {
+              "student_id": "21172220001",
+              "name": "Sunita Sharma",
+              "room_number": "220",
+              "id_card_qr": "21172220001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 3,
+      "rooms": [
+        {
+          "room_number": "301",
+          "students": [
+            {
+              "student_id": "21173301001",
+              "name": "Ashok Singh",
+              "room_number": "301",
+              "id_card_qr": "21173301001"
+            },
+            {
+              "student_id": "21173301002",
+              "name": "Komal Gupta",
+              "room_number": "301",
+              "id_card_qr": "21173301002"
+            }
+          ]
+        },
+        {
+          "room_number": "302",
+          "students": [
+            {
+              "student_id": "21173302001",
+              "name": "Vijay Kumar",
+              "room_number": "302",
+              "id_card_qr": "21173302001"
+            }
+          ]
+        },
+        {
+          "room_number": "303",
+          "students": [
+            {
+              "student_id": "21173303001",
+              "name": "Jyoti Patel",
+              "room_number": "303",
+              "id_card_qr": "21173303001"
+            },
+            {
+              "student_id": "21173303002",
+              "name": "Ramesh Reddy",
+              "room_number": "303",
+              "id_card_qr": "21173303002"
+            }
+          ]
+        },
+        {
+          "room_number": "304",
+          "students": [
+            {
+              "student_id": "21173304001",
+              "name": "Saroj Verma",
+              "room_number": "304",
+              "id_card_qr": "21173304001"
+            }
+          ]
+        },
+        {
+          "room_number": "305",
+          "students": [
+            {
+              "student_id": "21173305001",
+              "name": "Prakash Jain",
+              "room_number": "305",
+              "id_card_qr": "21173305001"
+            },
+            {
+              "student_id": "21173305002",
+              "name": "Vandana Agarwal",
+              "room_number": "305",
+              "id_card_qr": "21173305002"
+            }
+          ]
+        },
+        {
+          "room_number": "306",
+          "students": [
+            {
+              "student_id": "21173306001",
+              "name": "Rajiv Choudhary",
+              "room_number": "306",
+              "id_card_qr": "21173306001"
+            }
+          ]
+        },
+        {
+          "room_number": "307",
+          "students": [
+            {
+              "student_id": "21173307001",
+              "name": "Laxmi Mishra",
+              "room_number": "307",
+              "id_card_qr": "21173307001"
+            },
+            {
+              "student_id": "21173307002",
+              "name": "Satish Bansal",
+              "room_number": "307",
+              "id_card_qr": "21173307002"
+            }
+          ]
+        },
+        {
+          "room_number": "308",
+          "students": [
+            {
+              "student_id": "21173308001",
+              "name": "Manju Thakur",
+              "room_number": "308",
+              "id_card_qr": "21173308001"
+            }
+          ]
+        },
+        {
+          "room_number": "309",
+          "students": [
+            {
+              "student_id": "21173309001",
+              "name": "Arun Desai",
+              "room_number": "309",
+              "id_card_qr": "21173309001"
+            },
+            {
+              "student_id": "21173309002",
+              "name": "Seema Yadav",
+              "room_number": "309",
+              "id_card_qr": "21173309002"
+            }
+          ]
+        },
+        {
+          "room_number": "310",
+          "students": [
+            {
+              "student_id": "21173310001",
+              "name": "Dilip Sharma",
+              "room_number": "310",
+              "id_card_qr": "21173310001"
+            }
+          ]
+        },
+        {
+          "room_number": "311",
+          "students": [
+            {
+              "student_id": "21173311001",
+              "name": "Sushma Singh",
+              "room_number": "311",
+              "id_card_qr": "21173311001"
+            },
+            {
+              "student_id": "21173311002",
+              "name": "Narayan Gupta",
+              "room_number": "311",
+              "id_card_qr": "21173311002"
+            }
+          ]
+        },
+        {
+          "room_number": "312",
+          "students": [
+            {
+              "student_id": "21173312001",
+              "name": "Mala Kumar",
+              "room_number": "312",
+              "id_card_qr": "21173312001"
+            }
+          ]
+        },
+        {
+          "room_number": "313",
+          "students": [
+            {
+              "student_id": "21173313001",
+              "name": "Baldev Patel",
+              "room_number": "313",
+              "id_card_qr": "21173313001"
+            },
+            {
+              "student_id": "21173313002",
+              "name": "Kamala Reddy",
+              "room_number": "313",
+              "id_card_qr": "21173313002"
+            }
+          ]
+        },
+        {
+          "room_number": "314",
+          "students": [
+            {
+              "student_id": "21173314001",
+              "name": "Ganesh Verma",
+              "room_number": "314",
+              "id_card_qr": "21173314001"
+            }
+          ]
+        },
+        {
+          "room_number": "315",
+          "students": [
+            {
+              "student_id": "21173315001",
+              "name": "Shanti Jain",
+              "room_number": "315",
+              "id_card_qr": "21173315001"
+            },
+            {
+              "student_id": "21173315002",
+              "name": "Kishore Agarwal",
+              "room_number": "315",
+              "id_card_qr": "21173315002"
+            }
+          ]
+        },
+        {
+          "room_number": "316",
+          "students": [
+            {
+              "student_id": "21173316001",
+              "name": "Pushpa Choudhary",
+              "room_number": "316",
+              "id_card_qr": "21173316001"
+            }
+          ]
+        },
+        {
+          "room_number": "317",
+          "students": [
+            {
+              "student_id": "21173317001",
+              "name": "Bhagwan Mishra",
+              "room_number": "317",
+              "id_card_qr": "21173317001"
+            },
+            {
+              "student_id": "21173317002",
+              "name": "Savita Bansal",
+              "room_number": "317",
+              "id_card_qr": "21173317002"
+            }
+          ]
+        },
+        {
+          "room_number": "318",
+          "students": [
+            {
+              "student_id": "21173318001",
+              "name": "Gopal Thakur",
+              "room_number": "318",
+              "id_card_qr": "21173318001"
+            }
+          ]
+        },
+        {
+          "room_number": "319",
+          "students": [
+            {
+              "student_id": "21173319001",
+              "name": "Asha Desai",
+              "room_number": "319",
+              "id_card_qr": "21173319001"
+            },
+            {
+              "student_id": "21173319002",
+              "name": "Ramji Yadav",
+              "room_number": "319",
+              "id_card_qr": "21173319002"
+            }
+          ]
+        },
+        {
+          "room_number": "320",
+          "students": [
+            {
+              "student_id": "21173320001",
+              "name": "Sudha Sharma",
+              "room_number": "320",
+              "id_card_qr": "21173320001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
