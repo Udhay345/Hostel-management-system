@@ -197,19 +197,6 @@ lib/
 
 ---
 
-## 🔮 Roadmap
-
-- [ ] 🔔 Push notifications for leave/complaint status updates
-- [ ] 📸 Image upload support for complaint evidence
-- [ ] 📷 Real QR code scanning with `mobile_scanner`
-- [ ] 💾 Offline support with local data persistence (`Hive` / `sqflite`)
-- [ ] 👤 User profile management & avatar upload
-- [ ] 📈 Advanced analytics dashboard for admins
-- [ ] 🌙 Dark mode support
-- [ ] 🌐 Multi-language (i18n) support
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
